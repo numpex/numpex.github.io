@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://numpex.fr/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://numpex.fr/authors/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://numpex.fr/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://numpex.fr/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://numpex.fr/publication_types/</loc>
