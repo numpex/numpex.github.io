@@ -18,10 +18,11 @@ languages:
     contentDir: content/en
   fr:
     title: NumPEx
-    contentDir:content/fr
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
+    contentDir: content/fr
+
+#hasCJKLanguage: false
+#defaultContentLanguageInSubdir: false
+#removePathAccents: true
 
 ############################
 ## MODULES
