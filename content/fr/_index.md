@@ -96,6 +96,23 @@ sections:
       
       Michel Daydé, Jean-Yves Berthou, Jérôme Bobin
   design: { columns: '1' }
+- block: markdown
+  content:
+    title: "<a id='jobs'></a>Jobs"
+    subtitle: Des doctorant à jeune chercheur
+    text: |-
+      Nous offrons un grand nombre de postes à partir de septembre 2023 avec la possibilité de commencer plus tôt.
+      Chaque projet ciblé publiera des appels à candidats.
+      - ExaMA
+      - ExaSoft
+      - ExaDoST
+      - ExaAToW
+      - ExaDIP: 
+        - nous cherchons 11 candidats pour notre Compute and Data Team (CDT),
+        - les postes sont de 2 à 5 ans avec une rémunération en fonction de l'expérience,
+        - les profils que nous cherchons commencent du niveau post-doc juste après une thèse et s'étendent à des candidats ayant 3 à 5 ans d'expérience post-thèse,
+        - les postes impliquent de travailler sur des projets de co-conception combinant la recherche amont développée dans les autres projets ciblés de NumPEx,
+        - Contacts: (Mark Asch) mark.asch@u-picardie.fr et (Jean-Pierre Vilotte) vilotte@igp.fr
 #- block: logos
 #  content:
 #    logo_folder: logos

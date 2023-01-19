@@ -37,14 +37,14 @@ sections:
       
       Acces the slides of NumPEx presented at the [49th Orap Forum](http://orap.irisa.fr/49ieme-forum-le-pepr-numpex/).
 
-      NumPEx has a gloabl budget of 41.8 million euros, and is made up of 5 target projects covering the complete spectrum of the Exascale software stack.
+      NumPEx has a gloabl budget of 41.8 million euros, and is made up of 5 targeted projects covering the complete spectrum of the Exascale software stack.
 
   design: { columns: '1' }
 - block: markdown
-  title: "target projects"
+  title: "targeted projects"
   content:
     text: |-
-      # <a id='projets-cibles'></a>Target Projects
+      # <a id='projets-cibles'></a>Targeted projects
       ```markmap {height="15rem"}
       - NumPEx
         - **ExaMA**: Methods and Algorithms for Exascale
@@ -86,7 +86,7 @@ sections:
     subtitle: "From PhDs to Research Fellows."
     
     text: |-
-      We will have a large number of openings, starting from September 2023, with the possibility of earlier dates. Each Target Project will publish calls for candidates.
+      We will have a large number of openings, starting from September 2023, with the possibility of earlier dates. Each targeted project will publish calls for candidates.
       - ExaMA
       - ExaSoft
       - ExaDoST
@@ -96,7 +96,7 @@ sections:
         - we are seeking 11 candidates for our Compute and Data Team (CDT)
         - the positions are for 2 to 5 years, with remuneration as a function of experience
         - the profiles we seek begin from Postdoc level (directly after a PhD), and extend to candidates with 3 to 5 years experience after their PhD
-        - the positions involve working on co-design projects, combining upstream research performed in NumPEx's other target projects, with application development teams (see the call for Application Demonstrators above)
+        - the positions involve working on co-design projects, combining upstream research performed in NumPEx's other targeted projects, with application development teams (see the call for Application Demonstrators above)
         - Contacts: (Mark Asch) mark.asch@u-picardie.fr   and (Jean-Pierre Vilotte) vilotte@igp.fr
 #design: { columns: '1' }
 #- block: logos
