@@ -16,7 +16,7 @@ sections:
       label: "NumPEx on Github"
       url: https://github.com/numpex
     text: |-
-      Numerics for the Exascale
+      High Performance Numerics for the Exascale
       <div class="mb-4"></div>
     cta_note:
       label: |-
@@ -37,6 +37,8 @@ sections:
       
       Acces the slides of NumPEx presented at the [49th Orap Forum](http://orap.irisa.fr/49ieme-forum-le-pepr-numpex/).
 
+      Access a general [presentation](/NumPEx_PresentationGenerale_20230117.pdf)
+
       NumPEx has a gloabl budget of 41.8 million euros, and is made up of 5 target projects covering the complete spectrum of the Exascale software stack.
 
   design: { columns: '1' }
@@ -45,7 +47,7 @@ sections:
   content:
     text: |-
       # <a id='projets-cibles'></a>Target Projects
-      ```markmap {height="15rem"}
+      ```markmap {height="17rem"}
       - NumPEx
         - **ExaMA**: Methods and Algorithms for Exascale
           - Hélène Barucq
@@ -58,6 +60,8 @@ sections:
           - Julien Bigot
         - **ExaAToW**: Architectures and Tools for Large-Scale Workflows
           - François Bodin
+          - Mark Asch
+          - Thierry Deutsch
         - **ExaDIP** Development and integration project
           - Valérie Brenner
           - Jean-Pierre Vilotte
@@ -93,8 +97,9 @@ sections:
       - ExaAToW
       - ExaDIP: 
 
-        - we are seeking 11 candidates for our Compute and Data Team (CDT)
+        - we are seeking 5 candidates for our Compute and Data Team (CDT)
         - the positions are for 2 to 5 years, with remuneration as a function of experience
+        - location: Paris, Bordeaux, Grenoble
         - the profiles we seek begin from Postdoc level (directly after a PhD), and extend to candidates with 3 to 5 years experience after their PhD
         - the positions involve working on co-design projects, combining upstream research performed in NumPEx's other target projects, with application development teams (see the call for Application Demonstrators above)
         - Contacts: (Mark Asch) mark.asch@u-picardie.fr   and (Jean-Pierre Vilotte) vilotte@igp.fr
