@@ -107,7 +107,7 @@ sections:
       - ExaAToW
       - ExaDIP: 
 
-        - we are seeking 5 candidates for our Compute and Data Team (CDT)
+        - we are seeking at least 5 candidates for our Compute and Data Team (CDT)
         - the positions are for 2 to 5 years, with remuneration as a function of experience
         - location: Paris, Bordeaux, Grenoble
         - the profiles we seek begin from Postdoc level (directly after a PhD), and extend to candidates with 3 to 5 years experience after their PhD
