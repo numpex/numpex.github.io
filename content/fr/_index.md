@@ -98,8 +98,8 @@ sections:
   design: { columns: '1' }
 - block: markdown
   content:
-    title: "<a id='jobs'></a>Jobs"
-    subtitle: Des doctorant à jeune chercheur
+    title: "<a id='jobs'></a>Recrutement"
+    subtitle: De doctorant à jeune chercheur
     text: |-
       Nous offrons un grand nombre de postes à partir de septembre 2023 avec la possibilité de commencer plus tôt.
       Chaque projet ciblé publiera des appels à candidats.
