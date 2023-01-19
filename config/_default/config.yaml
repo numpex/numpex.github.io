@@ -11,10 +11,18 @@ copyright: "© {year} L´équipe NumPEx" # Footer text, e.g. '© {year} Me'
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: fr
-hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
-removePathAccents: true
+defaultContentLanguage: en
+languages:
+  en:
+    title: NumPEx
+    contentDir: content/en
+  fr:
+    title: NumPEx
+    contentDir: content/fr
+
+#hasCJKLanguage: false
+#defaultContentLanguageInSubdir: false
+#removePathAccents: true
 
 ############################
 ## MODULES
