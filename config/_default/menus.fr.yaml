@@ -10,3 +10,7 @@
    - name: Appel à démonstrateurs
      url: '/#appel-a-demonstrateurs'
      weight: 20
+   - name: Recrutement
+     url: '/#jobs'
+     weight: 30
+
