@@ -39,20 +39,23 @@ sections:
 
 
       Access a general [presentation](/NumPEx_PresentationGenerale_20230117.pdf)
-
-      NumPEx has a gloabl budget of 41.8 million euros, and is made up of 5 target projects covering the complete spectrum of the Exascale software stack.
-
-
-      NumPEx has a gloabl budget of 41.8 million euros, and is made up of 5 targeted projects covering the complete spectrum of the Exascale software stack.
-
+      
+      ## Project Description
+      
       The French Exascale program NumPEx aims at designing and developing the software components that will equip future exascale machines and  preparing the major scientific and industrial application domains to fully exploit the capabilities of these machines. NumPEx will therefore contribute to the Jules Verne consortium response to the next EuroHPC call for expressions of interest (AMI), with a view to hosting and operating at TGCC one of the two European exascale machines planned in Europe by 2025. The NUMPEX program contributes to the constitution of a set of tools, software, applications and also sovereign training that will allow France to remain one of the leaders in the field by developing a national Exascale ecosystem coordinated with the European strategy and to allow Europe to be in the forefront of the international competition.
       
       The NumPEx program	(2023-2028) has a budget of 40,8 M€ over 5 years. It is structured around 5 integrated projects:
+      
           • ExaMA, Algorithms and numerical: design and development of next-generation scalable algorithms, numerical methods for high performance numerical (computing, AI, data processing) ; 
+          
           • Exa-Soft, Computation-oriented software and libraries: design and development of software, libraries and tools dedicated to massive, accelerated and heterogeneous parallelism by coupling HPC, HPDA and AI approaches;
+          
           • ExaDoST, Data-oriented tools and software: design and development of software solutions for data processing and analysis and the use of artificial intelligence in HPC environments;
+          
           • ExaAToW, end-to-end complex workflows: management of large scale workflows composed of HPDA, AI, and HPC tasks that are distributed over the Exascale, HPC, and Data infrastructures.
-          • ExaDIP, as a transverse activity of co-design and software productivity: co-design of strategic application demonstrators, development of representative proxy-apps and mini-apps,  design of modern agile software development methodologies and frameworks for the production of software development kits
+          
+          • ExaDIP, as a transverse activity of co-design and software productivity: co-design of strategic application demonstrators, development of representative proxy-apps and mini-apps,  design of modern agile software development methodologies and frameworks for the production of software development kits.
+          
       The production of NumPEx software will leverage several decades of publicly funded French research and European and international efforts. To cite a few, some of the software, libraries, packages on which NumPEx software stack will be built are already well recognized and deployed: Scikit Learn, Pytorch, NetCDF, PDI, SIONlib, MUMPS, PETSc, Pleiades, Croco, Manta, Uranie, OpenTurns,  Hwloc, StarPU,  PAPI, Perf, PowerAPI,  Damaris., PaDaWan, (TBC).
 
       **ExaMA project.** The ExaMA project aims to (i) develop scalable numerical methods, algorithms, and implementations that, taking advantage of the exascale architectures, empower modeling, solving, assimilating model and data, optimizing and quantifying uncertainty, at levels that are unreachable at present; (ii) develop and contribute to software and toolbox libraries allowing to assemble specific critical reusable components, hiding the hardware complexity and exposing only the specific methodological interface (iii} to identify and co-design Methodological and Algorithmic Patterns at exascale that can be reused efficiently in large scale applications (eg in weather and climate forecasting and other societal, industrial and scientific challenges); (iv) to enable AI algorithms to reach Exascale performance, exploiting the methods from (i) and the libraries from (ii); and (iv) to provide demonstrators through mini-apps and proxy-apps that will be openly available and benchmarked on exascale systems.
