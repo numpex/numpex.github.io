@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
  main:
-   - name: Target projects
+   - name: Targeted projects
      url: '/#projets-cibles'
      weight: 10
    - name: Call for Demonstrators
